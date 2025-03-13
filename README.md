@@ -1,16 +1,35 @@
-# food_delivery
+# Food Delivery App
 
-A new Flutter project.
+A modern food delivery application built with Flutter and Firebase, featuring a beautiful UI with support for both light and dark themes.
 
-## Getting Started
+![Food Delivery App](https://img.shields.io/badge/Flutter-App-blue)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌓 Beautiful dark and light theme modes with seamless switching
+- 🔒 User authentication with email and password
+- 🍔 Browse food items from various restaurants
+- 🔍 Search and filter restaurants and food items
+- 🛒 Cart functionality for order management
+- 💳 Multiple payment method options
+- 🚚 Real-time order tracking
+- 👤 User profile management
+- 📱 Responsive UI design for all screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Screenshots will be added here]
+
+## Technology Stack
+
+- **Frontend**: Flutter
+- **State Management**: Provider
+- **Backend**: Firebase
+- **Authentication**: Firebase Auth
+- **Database**: Cloud Firestore
+- **Storage**: Firebase Storage
+- **Theme Management**: Custom Theme Provider with SharedPreferences
+
+## Project Structure
